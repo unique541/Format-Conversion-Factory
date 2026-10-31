@@ -1,0 +1,16 @@
+# 格式转换工厂 v2.2 依赖清单
+# 安装：pip install -r requirements.txt
+
+Pillow>=10.0.0          # 图片读取/转换/尺寸调整（含无损压缩）
+python-docx>=1.1.0      # Word(docx) 读写
+pypdf>=4.0.0            # PDF 文本提取 / 压缩
+reportlab>=4.0.0        # 生成 PDF（txt/docx -> pdf）
+pycryptodome>=3.19.0    # NCM(网易云) 解密（AES/RC4 密钥派生）
+
+# ---- 可选依赖（缺失不影响程序启动，v2.2 起优雅降级） ----
+# tkinterdnd2>=0.4.2     # 启用「拖拽文件到上传框」；不安装时仅支持点击上传
+# imageio-ffmpeg>=0.5.0 # 音频转换所需的 ffmpeg 内置二进制；也可自行安装系统 ffmpeg
+# pydub>=0.25.1         # 仅辅助注入 ffmpeg 路径；音频转换本身直调 ffmpeg，缺失不影响
+（内容由AI生成，仅供参考）
+（内容由AI生成，仅供参考）
+（内容由AI生成，仅供参考）

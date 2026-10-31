@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build output
+build/
+dist/
+*.spec
+
+# Logs and local scratch files
+*.log
