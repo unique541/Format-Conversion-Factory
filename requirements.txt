@@ -11,6 +11,3 @@ pycryptodome>=3.19.0    # NCM(网易云) 解密（AES/RC4 密钥派生）
 # tkinterdnd2>=0.4.2     # 启用「拖拽文件到上传框」；不安装时仅支持点击上传
 # imageio-ffmpeg>=0.5.0 # 音频转换所需的 ffmpeg 内置二进制；也可自行安装系统 ffmpeg
 # pydub>=0.25.1         # 仅辅助注入 ffmpeg 路径；音频转换本身直调 ffmpeg，缺失不影响
-（内容由AI生成，仅供参考）
-（内容由AI生成，仅供参考）
-（内容由AI生成，仅供参考）
