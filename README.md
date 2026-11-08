@@ -212,9 +212,4 @@ v2.5 起，目标格式下拉列表新增音乐软件专属格式作为**输出�
 - Python 依赖均为轻量库：Pillow / python-docx / pypdf / reportlab / pycryptodome，总计约几十 MB 级别安装体积。
 - 不捆绑 LibreOffice 等重型转换套件。
 - ffmpeg 为可选外部二进制（或 imageio-ffmpeg 小体积内置包），仅在需要音频转换时使用。
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
+
